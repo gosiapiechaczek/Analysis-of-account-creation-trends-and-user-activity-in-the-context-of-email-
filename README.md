@@ -1,0 +1,2 @@
+# Analysis-of-account-creation-trends-and-user-activity-in-the-context-of-email-
+The task involves collecting data that will help analyse the trends in account creation and user activity in relation to emails – that is, how many emails were sent, opened and clicked on. The aim is to gain a better understanding of user behaviour in areas such as:  the intervals between emails, account verification, subscription status.
